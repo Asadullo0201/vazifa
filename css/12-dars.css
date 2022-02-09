@@ -1,0 +1,161 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    text-align: center;
+  
+  }
+  *,*:before,*:after{
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  :focus,:active{outline: none;}
+  a:focus,a:active{outline: none;}
+  
+  nav,footer,header,aside{display: block;}
+  
+  html,body{
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+    line-height: 1;
+    font-size: 14px;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
+  input,button,textarea{font-family:inherit;}
+  
+  input::-ms-clear{display: none;}
+  button{cursor: pointer;}
+  button::-moz-focus-inner {padding:0;border:0;}
+  a, a:visited{text-decoration: none;}
+  a:hover{text-decoration: none;}
+  ul li{list-style: none;}
+  img{vertical-align: top;}
+  
+  h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+  
+   body{
+       background: #ffffff;
+       margin: 0 auto;
+       text-align: center;
+       max-width: 1928px;
+   }
+    .video{
+      height: 232px; 
+      background: url(../img/1-png.png) center/cover no-repeat;
+      font-size: 48px;
+      text-align: center;
+      margin-bottom: 125px;
+    }
+    .video span{
+        margin-top: 68px;
+        position: relative;
+        color: #ffffff;
+        margin-top: 69px;
+        display: inline-block;
+    }
+    .view{
+        margin-top: 125px;
+        height: 310px;
+        background: url(../img/2-rasm.png)no-repeat;
+        text-align: center;
+        margin: 0 auto;
+        max-width: 1140px;
+        margin-bottom: 52px;
+    }
+    .little{
+      color: #ffffff;
+      font-size: 15px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .number{
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #ff296c;
+      color: #ffffff;
+      max-width: 1140px;
+      padding: 20px 37px;
+      display: inline-block;
+      text-align: right;
+    }
+    .cap{
+      color: #1c3161;
+      font-size: 48px;
+      font-family: Myriad Pro;
+      display: inline-block;
+      margin-top:70px;
+     
+    }
+  .flower{
+    color: #363636;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    max-width: 810px;
+    margin: 0 auto;
+    line-height: 2.2;
+    display: inline-block;
+    margin-bottom: 115px;
+  }
+  .picture{
+    height: 320px;
+    background: url(../img/3-rasm.png) center no-repeat;
+    max-width: 558px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .writing{
+    max-width: 810px;
+    color:#363636 ;
+    font-size: 18px;
+    line-height: 34px;
+    margin: 0 auto;
+    text-align: left;
+    display: inline-block;
+    margin-top: 79px;
+    margin-bottom: 235px;
+  }
+  footer{
+    background-color: #1c3161;
+    width: 100%;
+  }
+  .bona{
+    color: #ffffff;
+    font-size: 48px;
+    display: inline-block;
+    padding-top: 100px;
+    
+  }
+  .arm{
+    padding-bottom: 198px;
+  
+  }
+  .pubg{
+    text-align: left;
+    width: 40%;
+    background-color: #ff296c;
+  }
+  input{
+    width: 310px;
+    height: 50px;
+    border: 3px 2px #1c3161;
+    display: inline-block;
+    margin-top: 50px;
+  }
+  footer .email, .url{
+    vertical-align: middle;
+  }
+  a{
+    text-transform: uppercase;
+    background-color: #ff296c;
+    color: #ffffff;
+    padding: 20px 67px 20px 30px;
+    display: inline-block;
+    margin-top: 50px;
+  }
+  input,a{
+    vertical-align: middle;
+  }
+  
